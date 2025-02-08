@@ -1,0 +1,16 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server"
+  },
+  "keywords": [],
+  "author": "Tapas Sahoo",
+  "license": "ISC",
+  "description": "My first project",
+  "dependencies": {
+    "mysql2": "^3.12.0"
+  }
+}
