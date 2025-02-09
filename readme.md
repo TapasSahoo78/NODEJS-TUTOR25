@@ -1,9 +1,9 @@
-name
-email
+name,
+email,
 gender
 
-country
-state 
+country,
+state,
 city
 
 subjects (checkboxes)
