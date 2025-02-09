@@ -4,13 +4,14 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node server"
+    "start": "nodemon server"
   },
   "keywords": [],
   "author": "Tapas Sahoo",
   "license": "ISC",
   "description": "My first project",
   "dependencies": {
+    "express": "^4.21.2",
     "mysql2": "^3.12.0"
   }
 }
